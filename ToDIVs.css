@@ -1,0 +1,11 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid purple;
+}
+#first {
+    background-color: red;
+}
+#second {
+    background-color: blue;
+}

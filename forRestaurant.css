@@ -1,0 +1,40 @@
+#header{
+    background-color: #FF8C8C;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+#navbar{
+    background-color: #00E0FF;
+    height: 220px;
+    width: 150px;
+    float: left;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+}
+#content{
+    background-color: #EEEEEE;
+    height: 200px;
+    width: 412px;
+    float: left;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+#footer{
+    background-color: #FFBD47;
+    clear: both;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    line-height: 25px;
+    padding: 0px;
+}
